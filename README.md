@@ -6,6 +6,10 @@
 
 Project on connected vehicles
 
+### Base functions 
+
+All functionalities are implemented in the following package [connectv2x](https://github.com/aladinoster/connectv2x)
+
 ## Reproducibility
 
 Download this repository
