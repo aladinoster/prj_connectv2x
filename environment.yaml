@@ -17,8 +17,8 @@ dependencies:
   - networkx
   - selenium
   - phantomjs
-  - matplotlib  
+  - matplotlib
   - nodejs
   - pip
   - pip:
-      - git+https://github.com/aladinoster/connectv2x.git@v0.2.0
+      - https://github.com/aladinoster/connectv2x/archive/v0.3.0.tar.gz
