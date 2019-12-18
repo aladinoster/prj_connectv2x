@@ -2,6 +2,8 @@
 
 # Connected Vehicles 
 
+### Project 02
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aladinoster/prj_connectv2x.git/Project02?filepath=Project02.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aladinoster/prj_connectv2x/blob/Project02/Project02.ipynb)
 
 ## Overview
